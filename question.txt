@@ -1,0 +1,39 @@
+3 ) Les propriétées de la classe animal sont : $nom , $espece, $leCri, $sonEspece, $sonNom, $value
+    methode class animalerie : arriver(), getall(), presenter(), sePresenter(), count(), partir(), get(), _construct().
+
+4) Felix existe encore dans la liste on peut verifier grace a la methode sePresenter(), il est juste plus dans la ménagerie.
+
+5) oui, il est possible de modifier l'éspece d'un animal apres ca création.
+Il faut utiliser la méthode setEspece(), pour vérifier cela il nous suffit de getEspece() l'animal modifié.
+Pour conclure, il est possible de modifier l'espece d'un animal apres ca création.
+
+6) Non on ne peut pas modifier directement le nombre.
+Pour vérifier on count() l'animalerie. Le résultat est dépends du nombre d'animal arriver().
+
+7) Saucisse fait 10 cms. La taille varie en fonction de l'animal. Pour conclure la taille n'est pas toujours la même elle dépends de l'animal.
+
+8) oui, il est possible de modifier la taille du chien apres, il faut utiliser la méthode setTaille(*chiffre*), puis pour verifier on utiliser getTaille.
+
+9) on ne peut pas modifier la race d'un chien aprés sont instanciation , il n'existe pas de méthode setRace().
+
+10) Pour afficher le nom d'un chien on peut utiliser la méthode sePresenter().
+
+11) La $nom dans la classe chien est héritée de la classe animalclass.php .
+
+12) oui on peut faire dormir, manger et parler le chien via les methodes.
+
+13) Les chiens posséde une éspece on verifie avec la méthode sePresenter(), l'espece est : CHIEN .
+
+14) On créer la ménagerie 'test' . (voir SPA.php)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+l'affichage de la ménagerie est :
+
+***** PRESENTATION DE LA MENAGERIE *****
+Je me presente : Chat Charlatant
+Je me presente : Chat chakira
+Je me presente : Chien yoran
+Je me presente : Chien vodk
+
+
+15)
